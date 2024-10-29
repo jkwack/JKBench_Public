@@ -1,5 +1,5 @@
 #CC=icx
-CC=mpicxx
+CC=mpiicx
 
 SDIR=./
 SRC=${SDIR}/Comp_GeoSeries_omp.c
